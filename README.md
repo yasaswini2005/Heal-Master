@@ -5,7 +5,13 @@
 
 
 THIS IS   PURLY FRONT END PROJECT WHICH WAS BUILD BY US , PURLY BASED ON HTML AND CSS WHICH WE  KNOW.............
+
+
 Our home page
+![Screenshot 2023-10-19 111757](https://github.com/yasaswini2005/Heal-Master/assets/139364347/8d59a5e9-cfe1-451d-be40-c6a345b3d4b4)
+
+![Screenshot (98)](https://github.com/yasaswini2005/Heal-Master/assets/139364347/de8dcae8-4f76-4d6e-9929-1c2320391870)
+
 SIGN UP /REGISTRATION PAGE
 ![hi](https://github.com/yasaswini2005/Heal-Master/assets/139364347/196f72e6-64b3-4dc9-945f-1ba348c8545e)
 
