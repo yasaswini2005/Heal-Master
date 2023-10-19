@@ -8,7 +8,6 @@ THIS IS   PURLY FRONT END PROJECT WHICH WAS BUILD BY US , PURLY BASED ON HTML AN
 Our home page
 SIGN UP /REGISTRATION PAGE
 ![hi](https://github.com/yasaswini2005/Heal-Master/assets/139364347/196f72e6-64b3-4dc9-945f-1ba348c8545e)
-
-
 SPECIALISTS PAGE
 APPOINTMENT BOOKING PAGE 
+<img width="917" alt="Screenshot 2023-10-19 103414" src="https://github.com/yasaswini2005/Heal-Master/assets/139364347/ea95123b-aa47-4d3e-ab3b-8eb357f3702d">
