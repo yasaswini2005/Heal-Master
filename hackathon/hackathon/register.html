@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <link rel="stylesheet" href="register.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <form action="#" method="post">
+    <div class="button">
+        <button><a href="index.html" style="color: azure;">HOME</a></button>
+     </div>
+    <div class="container">
+        <h1 style="text-shadow: 2px 3px 4px">Registration Form</h1>
+        <div>
+        <p>Name :</p>
+        <input type="text" name="fullname" placeholder="Full Name">
+        </div>
+        
+        <div class="form-group">
+            <p>Gender :</p>
+            <select placeholder="Select Gender" name="Sgender" [(ngModel)]="gender" class="form-control" #genders="ngModel" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            </select>
+            <div *ngIf="genders.invalid && (genders.dirty || genders.touched)" class="alert alert-danger">
+            </div>
+          </div>
+           
+        <div>
+        <p>User Name :</p>
+        <input type="text" name="username" placeholder="User Name">
+        </div>
+        <div>
+        <p>Password  :</p>
+        <input type="password" name="Password" placeholder="Password">
+        </div>
+        <div>
+        <p>Email :</p>
+        <input type="text" name="Email" placeholder="Email">
+        </div>
+        <div>
+        <p>Moblie Number</p>
+        <input type="number" name="Moblie number" placeholder="Moblie Number">
+        </div>
+        <div>
+        <p>Place</p>
+        <input type="text" name="Place" placeholder="Place">
+        </div>
+        <div>
+            <button><a href="index.html">Register</a></button>
+            
+        </div>
+    </div>
+   
+  </form>
+</body>
+</html>
