@@ -1,4 +1,4 @@
-# Heal-Master #code for cause hackathon #zeroOne (the code club)
+# Heal-Master #code for cause hackathon #ZeroOne (the code club)
  Problem statement :Online OPD Appointment and Hospital Information System : Website/App for online OPD appointment & hospital information system. Use coding - Frontend
 (html,css,js/React) ,Backend (php / nodejs) 
 
