@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.container-in {
+    height: 95vh;
+    width: 80%;
+    border: 1px solid black;
+    
+    
+   
+}
+.row1 {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    
+}
+.one-box {
+    height: 40vh;
+    width: 25%;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    flex-direction: column;
+    gap: 30px;
+   
+}
+.two-box {
+    height: 40vh;
+    width: 25%;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    flex-direction: column;
+    gap: 30px;
+    
+}
+.three-box {
+    height: 40vh;
+    width: 25%;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    flex-direction: column;
+    gap: 30px;
+}
+.four-box {
+    height: 40vh;
+    width: 25%;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    flex-direction: column;
+    gap: 30px;
+}
+.row2 {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    
+}
+button  a  {
+    color: #fff;
+    text-decoration: none;
+    
+  
+    
+}
+.button {
+    background-color: black;
+    border: grey;
+    width: 30%;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+.button button {
+    color: black;
+}
+.one-box button {
+    background-color: black;
+    border-radius: 5px;
+}
+.two-box button {
+    background-color: black;
+    border-radius: 5px;
+}
+.three-box button {
+    background-color: black;
+    border-radius: 5px;
+}
+.four-box button {
+    background-color: black;
+    border-radius: 5px;
+}
+.back a {
+      color: black;
+      text-decoration: none;
+}
